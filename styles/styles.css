@@ -1,0 +1,23 @@
+/* CSS STYLES */
+
+
+#iconLook {
+    height: 50%;
+}
+
+
+
+#jumboMargin {
+    background-color: royalblue;
+     margin-right: 10%;
+     margin-left: 10%;
+     white-space: nowrap;
+    ;
+}
+
+ .nowrapText {
+            white-space: nowrap;
+
+    ;
+ }
+
